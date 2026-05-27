@@ -57,7 +57,7 @@ src/
    git clone [https://github.com/AnastasisKoumou/bytesteps-lab.git](https://github.com/AnastasisKoumou/bytesteps-lab.git)
    cd bytesteps-lab
 ```
-2. Compile and Run (via Terminal assuming JavaFX is configured):
+2. **Compile and Run (via Terminal assuming JavaFX is configured):**
 ```bash
    javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls *.java
    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls MainApp
