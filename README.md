@@ -61,7 +61,8 @@ src/
 ```bash
    javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls *.java
    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls MainApp
-   (Alternatively, just import the folder into IntelliJ IDEA or Eclipse, configure the JavaFX SDK globally, and hit Run on MainApp.java).
 ```
+   (Alternatively, just import the folder into IntelliJ IDEA or Eclipse, configure the JavaFX SDK globally, and hit Run on MainApp.java).
+
 📝 License
 This project is open-source and available under the MIT License.
