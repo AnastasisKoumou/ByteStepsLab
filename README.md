@@ -42,24 +42,26 @@ src/
 ├── QuestionType.java       # Enum representing supported quiz types
 ├── Worksheet.java          # Model linking a specific theory text to a challenge
 └── Lesson.java             # Core data model for an entire learning module
-```
 
-⚡ Getting Started
-Prerequisites
-Java Development Kit (JDK): Version 17 or higher.
-JavaFX SDK: Configured in your IDE or build tool (Maven/Gradle).
+## ⚡ Getting Started
 
-Running the Application
-1. Clone the repository:
-Bash
-git clone [https://github.com/AnastasisKoumou/bytesteps-lab.git](https://github.com/AnastasisKoumou/bytesteps-lab.git)
-cd bytesteps-lab
+### Prerequisites
+
+* **Java Development Kit (JDK):** Version 17 or higher.
+* **JavaFX SDK:** Configured in your IDE or build tool (Maven/Gradle).
+
+### Running the Application
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/AnastasisKoumou/bytesteps-lab.git](https://github.com/AnastasisKoumou/bytesteps-lab.git)
+   cd bytesteps-lab
 
 2. Compile and Run (via Terminal assuming JavaFX is configured):
-Bash
-javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls *.java
-java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls MainApp
-(Alternatively, just import the folder into IntelliJ IDEA or Eclipse, configure the JavaFX SDK globally, and hit Run on MainApp.java).
+```bash
+   javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls *.java
+   java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls MainApp
+   (Alternatively, just import the folder into IntelliJ IDEA or Eclipse, configure the JavaFX SDK globally, and hit Run on MainApp.java).
 
 📝 License
 This project is open-source and available under the MIT License.
