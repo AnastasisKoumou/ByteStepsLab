@@ -43,6 +43,13 @@ src/
 ├── Worksheet.java          # Model linking a specific theory text to a challenge
 └── Lesson.java             # Core data model for an entire learning module
 ```
+
+## 📷 Screensshots
+<img width="1913" height="904" alt="game-menu" src="https://github.com/user-attachments/assets/cae5128c-3f70-45b6-888b-9bf40c3fb2f5" />
+
+<img width="1896" height="905" alt="game-run" src="https://github.com/user-attachments/assets/72e4de61-e777-4839-8aae-c3eadfdd5711" />
+
+
 ## ⚡ Getting Started
 
 ### Prerequisites
