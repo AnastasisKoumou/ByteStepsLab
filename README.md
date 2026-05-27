@@ -64,5 +64,6 @@ src/
 ```
    (Alternatively, just import the folder into IntelliJ IDEA or Eclipse, configure the JavaFX SDK globally, and hit Run on MainApp.java).
 
-📝 License
+## 📝 License
+
 This project is open-source and available under the MIT License.
